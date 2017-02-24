@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<places>
+  <country>
+    <name>Brasil</name>
+  </country>
+  <country>
+    <name>Estados Unidos</name>
+  </country>
+  <state>
+    <name>Minas Gerais</name>
+    <country>
+      <name>Brasil</name>
+    </country>
+  </state>
+  <state>
+    <name>Sao Paulo</name>
+    <country>
+      <name>Brasil</name>
+    </country>
+  </state>
+  <state>
+    <name>Bahia</name>
+    <country>
+      <name>Brasil</name>
+    </country>
+  </state>
+  <state>
+    <name>Florida</name>
+    <country>
+      <name>Estados Unidos</name>
+    </country>
+  </state>
+  <state>
+    <name>California</name>
+    <country>
+      <name>Estados Unidos</name>
+    </country>
+  </state>
+  <state>
+    <name>New York</name>
+    <country>
+      <name>Estados Unidos</name>
+    </country>
+  </state>
+  <city>
+    <name>Belo Horizonte</name>
+    <state>
+      <name>Minas Gerais</name>
+      <country>
+        <name>Brasil</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Sete Lagoas</name>
+    <state>
+      <name>Minas Gerais</name>
+      <country>
+        <name>Brasil</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Sao Paulo</name>
+    <state>
+      <name>Sao Paulo</name>
+      <country>
+        <name>Brasil</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Campinas</name>
+    <state>
+      <name>Sao Paulo</name>
+      <country>
+        <name>Brasil</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Salvador</name>
+    <state>
+      <name>Bahia</name>
+      <country>
+        <name>Brasil</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Miami</name>
+    <state>
+      <name>Florida</name>
+      <country>
+        <name>Estados Unidos</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Tampa</name>
+    <state>
+      <name>Florida</name>
+      <country>
+        <name>Estados Unidos</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>Los Angeles</name>
+    <state>
+      <name>California</name>
+      <country>
+        <name>Estados Unidos</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>San Francisco</name>
+    <state>
+      <name>California</name>
+      <country>
+        <name>Estados Unidos</name>
+      </country>
+    </state>
+  </city>
+  <city>
+    <name>New York</name>
+    <state>
+      <name>New York</name>
+      <country>
+        <name>Estados Unidos</name>
+      </country>
+    </state>
+  </city>
+</places>
+
